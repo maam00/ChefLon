@@ -13,7 +13,7 @@ intro_pull: "This isn't catering. Lonny shows up, sets up the oven, and becomes 
 intro_p2: "He'll stretch dough in front of your guests, fire pie after pie, and riff on the menu based on the vibe of the night. The whole thing runs like a cross between a cooking show and the best dinner party you've ever thrown. No two parties are the same — that's the whole point."
 intro_p3: "New Jersey is close. The $150 travel surcharge covers all of it — from Hoboken and Jersey City right across the Hudson, through Bergen and Morris counties, down to Princeton and the Shore. If you can get there in a car, Lonny can cook there."
 travel_surcharge: "$150"
-travel_note: "Flat surcharge for any New Jersey location, 45+ minutes from home base."
+travel_note: "Flat surcharge for any New Jersey location, 1+ hour drive from home base."
 areas:
   - Bergen County
   - Hudson County
